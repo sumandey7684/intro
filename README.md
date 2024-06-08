@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Suman Dey</h1>
+<h1 align="center">Hello World! 👋, I'm Suman Dey, An enthusiastic Computer Science and Engineering student from Bhubaneswar, currently studying at the Trident Academy of Technology. Welcome to my github profile</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumandey7684&label=Profile%20views&color=0e75b6&style=flat" alt="sumandey7684" /> </p>
 
-- 🌱 I’m currently learning **Frontend Web developing**
+- 🌱 I’m currently learning **Frontend Web developing.**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
