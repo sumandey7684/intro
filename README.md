@@ -86,18 +86,12 @@
   <a href="https://www.facebook.com/profile.php?id=100091921029250" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://t.me/sumanx07" target="_blank">
+  <a href="https://t.me/sumanx07" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://alvo.chat/4UIH" target="_blank">
+  <a href="https://alvo.chat/4UIH" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sumandey7684/sumandey7684/output/snake.svg" alt="Snake animation" />
 
 ###
